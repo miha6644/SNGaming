@@ -1,0 +1,94 @@
+body {
+    background-color: #ee3231;
+}
+
+h6 {
+    color: white;
+    font-weight: bold;
+}
+
+p {
+    color:white;
+}
+
+hr {
+    color: white;
+    border-top: dotted;
+}
+
+.basket {
+    margin-right: 8px;
+    background-color: white;
+}
+
+.carousel-control-prev-icon {
+    margin-left: -150px;
+}
+
+.carousel-control-next-icon {
+    margin-left: 150px;
+}
+
+.row {
+    margin: 25px;
+    text-align: center;
+}
+
+.card-body {
+    background-color: #ee3231;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    background-color: #ee3231;
+    border-style: none;
+}
+
+.card_sales {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    width: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 25px;
+}
+
+.table {
+    color: white;
+    max-width: 25%;
+}
+
+.info {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 25px;
+}
+
+.accordion {
+    margin-top: 25px;
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-bottom: 50px;
+}
+
+.accordion-button {
+    background-color: #198754;
+}
+
+.accordion-item {
+    background-color: white;
+}
+
+.aboutus {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    background-color: black;
+}
